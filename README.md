@@ -1,3 +1,3 @@
-# Library Workshops and Research
+# Research and Teaching
 
-Jekyll repository for Jylisa Doney's library workshops and research. 
+Jekyll repository for Jylisa Doney's research and teaching. 
