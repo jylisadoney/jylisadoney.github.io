@@ -19,7 +19,7 @@ nav: true
 ### Library sessions
 <ul>
   <li>ANTH 220: Peoples of the World</li>
-  <li>College of Graduate Studies (COGS) Library Workshop, co-taught</li
+  <li>College of Graduate Studies (COGS) Library Workshop, co-taught</li>
   <li>GSSP 501: Navigating the Graduate Pathway, co-taught</li>
   <li>GSSP 503: Introduction to Graduate Research, co-taught</li>
   <li>IS 204: Special Topics - International Studies Research Methods </li>
