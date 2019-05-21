@@ -8,7 +8,7 @@
 # - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
 
 # Site settings
-title: "Library Workshops and Research"
+title: "Jylisa Doney"
 # description and keywords for meta tags
 description: "Learn more about Jylisa Doney's library workshops and research"
 keywords:
