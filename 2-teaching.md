@@ -5,7 +5,7 @@ nav: true
 
 ## Teaching
 
-<h4>Materials developed<h4> 
+#### Materials developed 
 <ul>
   <li><a href="https://libguides.uidaho.edu/IntlStudiesPapers" target="_blank">International Studies Papers</a></li>
   <li><a href="https://jylisadoney.github.io/intro-excel-1/" target="_blank">Introduction to Excel Part I: Tips, Tricks, and Strategies</a></li>  
@@ -16,7 +16,7 @@ nav: true
   <li><a href="https://libguides.uidaho.edu/socbabcock" target="_blank">Sociology Online [Babcock]</a></li>
 </ul>  
 
-<h4>Library sessions<h4>
+#### Library sessions
 <ul>
   <li>ANTH 220: Peoples of the World</li>
   <li>College of Graduate Studies (COGS) Library Workshop, co-taught</li
@@ -40,7 +40,7 @@ nav: true
   <li>SOC 460: Capstone - Sociology in Action</li>
 </ul> 
   
-<h4>Library workshops<h4>
+#### Library workshops
 <ul>
   <li>Introduction to Creative Commons Licenses</li>
   <li><a href="https://jylisadoney.github.io/intro-excel-1/" target="_blank">Introduction to Excel Part I: Tips, Tricks, and Strategies</a></li>
