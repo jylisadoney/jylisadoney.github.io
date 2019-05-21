@@ -1,9 +1,9 @@
 ---
 title: Home
 ---
-# Library Workshops and Research
+# Research and Teaching
 
-This GitHub page details Jylisa Doney's library workshops and research.
+This GitHub page details Jylisa Doney's research and teaching.
 
 <div class="toc" markdown="1">
 ### Contents:
