@@ -38,8 +38,8 @@ nav: true
   <li>SOC 404: Special Topics - Climate Change & Society, co-taught</li>
   <li>SOC 427: Racial and Ethnic Relations</li>
   <li>SOC 460: Capstone - Sociology in Action</li>
-</ul> 
-  
+</ul>
+
 ### Library workshops
 <ul>
   <li>Introduction to Creative Commons Licenses</li>
