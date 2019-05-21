@@ -8,7 +8,7 @@
 # - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
 
 # Site settings
-title: "Jylisa Doney <a itemprop="sameAs" content="https://orcid.org/0000-0002-9002-879X" href="https://orcid.org/0000-0002-9002-879X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a> "
+title: "Jylisa Doney"
 # description and keywords for meta tags
 description: "Learn more about Jylisa Doney's library workshops and research"
 keywords:
