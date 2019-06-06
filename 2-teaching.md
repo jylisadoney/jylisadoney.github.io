@@ -10,7 +10,7 @@ nav: true
   <li><a href="https://libguides.uidaho.edu/IntlStudiesPapers" target="_blank">International Studies Papers</a></li>
   <li><a href="https://jylisadoney.github.io/intro-excel-1/" target="_blank">Introduction to Excel Part I: Tips, Tricks, and Strategies</a></li>  
   <li><a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">Introduction to Excel Part II: Advanced Functions, Charts, and Graphs</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PL3MdArvT5LVceq5Toj2XLd7NQptPWIIy0" target="_blank">POLS 504 Library Tutorial series</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PL3MdArvT5LVceq5Toj2XLd7NQptPWIIy0" target="_blank">POLS 504 Library Tutorial series</a>
       <ul>
     <li><a href="images/Resources-POLS504LibraryTutorials.pdf" target="_blank">Resources discussed and cited in POLS 504 Library Tutorial series</a></li>
   </ul>
