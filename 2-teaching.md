@@ -46,15 +46,15 @@ nav: true
 
 #### GitHub pages
 <ul> 
-   <li>GitHub Page: <a href="https://jylisadoney.github.io/intro-excel-1/" target="_blank">Introduction to Excel Part I: Tips, Tricks, and Strategies</a></li>  
-  <li>GitHub Page: <a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">Introduction to Excel Part II: Advanced Functions, Charts, and Graphs</a></li>
-  <li>GitHub Page: <a href="https://jylisadoney.github.io/soc-341" target="_blank">SOC 341 Library Workshop (Spring 2018)</a></li>
-  <li>GitHub Page: <a href="https://jylisadoney.github.io/soc" target="_blank">Sociology Library Workshops</a></li>
+   <li><a href="https://jylisadoney.github.io/intro-excel-1/" target="_blank">Introduction to Excel Part I: Tips, Tricks, and Strategies</a></li>  
+  <li><a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">Introduction to Excel Part II: Advanced Functions, Charts, and Graphs</a></li>
+  <li><a href="https://jylisadoney.github.io/soc-341" target="_blank">SOC 341 Library Workshop (Spring 2018)</a></li>
+  <li><a href="https://jylisadoney.github.io/soc" target="_blank">Sociology Library Workshops</a></li>
 </ul>
 
 #### Research guides (course-specific)
 <ul>
-  <li>Research Guide: <a href="https://libguides.uidaho.edu/IntlStudiesPapers" target="_blank">International Studies Papers</a></li>
-  <li>Research Guide: <a href="https://libguides.uidaho.edu/psyc218-online" target="_blank">Psychology 218 - Online [Pula]</a></li>
-  <li>Research Guide:<a href="https://libguides.uidaho.edu/socbabcock" target="_blank">Sociology Online [Babcock]</a></li>
+  <li><a href="https://libguides.uidaho.edu/IntlStudiesPapers" target="_blank">International Studies Papers</a></li>
+  <li><a href="https://libguides.uidaho.edu/psyc218-online" target="_blank">Psychology 218 - Online [Pula]</a></li>
+  <li><a href="https://libguides.uidaho.edu/socbabcock" target="_blank">Sociology Online [Babcock]</a></li>
 </ul> 
