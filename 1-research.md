@@ -21,7 +21,7 @@ nav: true
 
 ### Refereed
 <ul>
- <li>Raezer-Stursa, T., Eggebraaten, L, <b>Doney, J.</b>, & Hallberg, J. (2018). <i>1957 Fargo tornado<i/>. Charleston, SC: Arcadia Publishing. <a href="http://www.worldcat.org/oclc/1038277671" target="_blank">http://www.worldcat.org/oclc/1038277671</a>.</li>
+ <li>Raezer-Stursa, T., Eggebraaten, L, <b>Doney, J.</b>, & Hallberg, J. (2018). <i>1957 Fargo tornado</i>. Charleston, SC: Arcadia Publishing. <a href="http://www.worldcat.org/oclc/1038277671" target="_blank">http://www.worldcat.org/oclc/1038277671</a>.</li>
 </ul>
 
 ### Book reviews
@@ -33,7 +33,7 @@ nav: true
 
 ### Presentations
 <ul>
- <li>Becker, D., & <b>Doney, J.</i> (2018, October). <i>Oral history as open data: Analyzing and publishing research interview artifacts and data using minimal computing techniques</i>. Presentation at the Digital Library Federation Forum, Las Vegas, NV.</li>
+ <li>Becker, D., & <b>Doney, J.</b> (2018, October). <i>Oral history as open data: Analyzing and publishing research interview artifacts and data using minimal computing techniques</i>. Presentation at the Digital Library Federation Forum, Las Vegas, NV.</li>
  <li>Becker, D., <b>Doney, J.</b> (2018, October). <i>Oral histories as data</i>. Presentation at the Idaho Library Association Annual Conference, Moscow, ID.</li>
  <li><b>Doney, J.</b>, & Martinez, J. (2018, October). <i>Where do patrons learn about events and services? A pilot study on student social media preferences</i>. Presentation at the Idaho Library Association Annual Conference, Moscow, ID.</li>
  <li><b>Doney, J.</b> (2017, May). <i>Collaborating, learning, and situating: Instruction with upper-division social work students</i>. Panel presentation at the Association of College & Research Libraries (ACRL) North Dakota-Manitoba Annual Symposium, Grand Forks, ND.</li>
