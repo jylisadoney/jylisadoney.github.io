@@ -33,7 +33,7 @@ nav: true
 ### Library workshops
 <ul>
   <li>Introduction to Creative Commons Licenses</li>
-  <li>Introduction to Excel Part I: Tips, Tricks, and Strategies; <a href="https://jylisadoney.github.io/intro-excel-1/" target="_blank>GitHub page</a></li>
+  <li>Introduction to Excel Part I: Tips, Tricks, and Strategies; <a href="https://jylisadoney.github.io/intro-excel-1/" target="_blank">GitHub page</a></li>
   <li>Introduction to Excel Part II: Advanced Functions, Charts, and Graphs; <a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">GitHub page</a></li>
 </ul>
 
