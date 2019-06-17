@@ -9,6 +9,7 @@ nav: true
 
 ### Peer-reviewed
 <ul>
+<li><b>Doney, J.</b> (under review). Library services for unaffiliated patrons at Association of Public and Land-grant Universities (APLU). <i>The Journal of Academic Librarianship, 45</i>(5), 102041. <a href="https://doi.org/10.1016/j.acalib.2019.05.009" target="_blank">https://doi.org/10.1016/j.acalib.2019.05.009</a></li>
 <li><b>Doney, J.</b> (2019). Situating library instruction: A case study of upper-division social work seminar/practicum courses. <i>New Review of Academic Librarianship, 25</i>(1), 8-27. <a href="https://doi.org/10.1080/13614533.2018.1460726" target="_blank">https://doi.org/10.1080/13614533.2018.1460726</a>.</li>
  <li>Martinez, J., <b>Doney, J.</b>, & Stoddart, R. (in press, 2019). Illuminating the social aspect of open access textbook adoption. In D. Chase & D. Haugh (Eds.), <i>Open Praxis, Open Access: Digital Scholarship in Action</i>. Chicago, IL: ALA Editions. <a href="http://www.worldcat.org/oclc/1098224350" target="_blank">http://www.worldcat.org/oclc/1098224350</a>.</li>
  <li>Hara, N., & <b>Doney, J.</b> (2015). Social construction of knowledge in Wikipedia. <i>First Monday, 20</i>(6). <a href="http://dx.doi.org/10.5210/fm.v20i6.5869" target="_blank">http://dx.doi.org/10.5210/fm.v20i6.5869</a>.</li>
@@ -16,7 +17,7 @@ nav: true
  </ul>
 
 <!--### Under review
-<li><b>Doney, J.</b> (under review). Library services for unaffiliated patrons at Association of Public and Land-grant Universities (APLU). Data available for download</li>
+<li><b>Doney, J.</b> (under review). Library services for unaffiliated patrons at Association of Public and Land-grant Universities (APLU). <i>The Journal of Academic Librarianship, 45</i>(5), 102041. <a href="https://doi.org/10.1016/j.acalib.2019.05.009" target="_blank">https://doi.org/10.1016/j.acalib.2019.05.009</a>. Data available for download</li>
 <li><b>Doney, J.</b>, & Martinez, J. (under review). Leveraging failure to inform practice: How do students learn about library events and services?</li>-->
 
 ### Refereed
