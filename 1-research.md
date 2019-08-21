@@ -9,6 +9,7 @@ nav: true
 
 ### Peer-reviewed
 <ul>
+<li>Anderson, T., <b>Doney, J.</b>, Hendrix, B., Martinez, J., Stoddart, R., & Wright, M. (2019). The five laws of OER: Observations from Ranganathan. <i>Journal of Librarianship and Scholarly Communication, 7</i>(1), eP2299. <a href="https://dx.doi.org/10.7710/2162-3309.2299" target="_blank">https://dx.doi.org/10.7710/2162-3309.2299</a>.</li>
 <li><b>Doney, J.</b> (2019). Library services for unaffiliated patrons at Association of Public and Land-grant Universities (APLU). <i>The Journal of Academic Librarianship, 45</i>(5), 102041. <a href="https://doi.org/10.1016/j.acalib.2019.05.009" target="_blank">https://doi.org/10.1016/j.acalib.2019.05.009</a></li>
 <li><b>Doney, J.</b> (2019). Situating library instruction: A case study of upper-division social work seminar/practicum courses. <i>New Review of Academic Librarianship, 25</i>(1), 8-27. <a href="https://doi.org/10.1080/13614533.2018.1460726" target="_blank">https://doi.org/10.1080/13614533.2018.1460726</a>.</li>
  <li>Martinez, J., <b>Doney, J.</b>, & Stoddart, R. (in press, 2019). Illuminating the social aspect of open access textbook adoption. In D. Chase & D. Haugh (Eds.), <i>Open Praxis, Open Access: Digital Scholarship in Action</i>. Chicago, IL: ALA Editions. <a href="http://www.worldcat.org/oclc/1098224350" target="_blank">http://www.worldcat.org/oclc/1098224350</a>.</li>
@@ -18,8 +19,7 @@ nav: true
 
 <!--### Under review
 <li><b>Doney, J.</b> (under review). Library services for unaffiliated patrons at Association of Public and Land-grant Universities (APLU). <i>The Journal of Academic Librarianship, 45</i>(5), 102041. <a href="https://doi.org/10.1016/j.acalib.2019.05.009" target="_blank">https://doi.org/10.1016/j.acalib.2019.05.009</a>. Data available for download</li>
-<li><b>Doney, J.</b>, & Martinez, J. (under review). Leveraging failure to inform practice: How do students learn about library events and services? <i>Marketing Libraries Journal</i>.</li>
-<li>Anderson, T., <b>Doney, J.</b>, Hendrix, B., Martinez, J., Stoddart, R., & Wright, M. (under review). The five laws of OER: Observations from Ranganathan. <i>Journal of Librarianship and Scholarly Communication</i>.</li>-->
+<li><b>Doney, J.</b>, & Martinez, J. (under review). Leveraging failure to inform practice: How do students learn about library events and services? <i>Marketing Libraries Journal</i>.</li>-->
 
 ### Refereed
 <ul>
@@ -35,6 +35,7 @@ nav: true
 
 ### Presentations
 <ul>
+ <li>Martinez, J., <b>Doney, J.</b>, & Wikle, O. (2019, August). Likes, comments, and views: A content analysis of academic library Instagram posts. Presentation at the Pacific Northwest Library Association 2019 Conference, Spokane, WA. Slides available at <a href="https://pnla.org/wp-content/uploads/2019/08/Martinez-Doney-Wikle_PNLA2019_LikesCommentsViews.pptx">https://pnla.org/wp-content/uploads/2019/08/Martinez-Doney-Wikle_PNLA2019_LikesCommentsViews.pptx</a>.
  <li>Becker, D., & <b>Doney, J.</b> (2018, October). <i>Oral history as open data: Analyzing and publishing research interview artifacts and data using minimal computing techniques</i>. Presentation at the Digital Library Federation Forum, Las Vegas, NV.</li>
  <li>Becker, D., <b>Doney, J.</b> (2018, October). <i>Oral histories as data</i>. Presentation at the Idaho Library Association Annual Conference, Moscow, ID.</li>
  <li><b>Doney, J.</b>, & Martinez, J. (2018, October). <i>Where do patrons learn about events and services? A pilot study on student social media preferences</i>. Presentation at the Idaho Library Association Annual Conference, Moscow, ID.</li>
@@ -46,5 +47,3 @@ nav: true
 ### Poster presentations
 <ul>
  <li>Stoddart, R., <b>Doney, J.</b>, & Martinez, J. (2019, May). <i>What can OER advocates learn from traditional faculty textbook adoption experience?</i> Poster presentation at the OER Symposium - Open Oregon, Eugene, OR.</li>
- 
-
