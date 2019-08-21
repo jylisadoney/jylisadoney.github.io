@@ -49,7 +49,7 @@ nav: true
 <ul> 
    <li><a href="https://jylisadoney.github.io/intro-excel-1/" target="_blank">Introduction to Excel Part I: Tips, Tricks, and Strategies</a></li>  
   <li><a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">Introduction to Excel Part II: Advanced Functions, Charts, and Graphs</a></li>
-  <li>POLS 235 Library Session; <a href="https://jylisadoney.github.io/pols-235/" target="_blank">GitHub page</a></li>
+  <li><a href="https://jylisadoney.github.io/pols-235/" target="_blank">POLS 235 Library Session</a></li>
   <li><a href="https://jylisadoney.github.io/soc-341" target="_blank">SOC 341 Library Session (Spring 2018)</a></li>
   <li><a href="https://jylisadoney.github.io/soc" target="_blank">Sociology Library Workshops</a></li>
 </ul>
