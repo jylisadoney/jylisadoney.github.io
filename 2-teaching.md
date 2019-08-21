@@ -17,7 +17,7 @@ nav: true
   <li>ISEM 101: Special Topics - Integrated Seminar</li>
   <li>NRS 310: Social Science Research Methods, co-taught</li>
   <li>POLS 207: Introduction to Political Behavior</li>
-  <li>POLS 235: Political Research Methods and Approaches; <a href="https://jylisadoney.github.io/pols-235/" target="_blank">GitHub page</a></li>
+  <li>POLS 235: Political Research Methods and Approaches<!-->; <a href="https://jylisadoney.github.io/pols-235/" target="_blank">GitHub page</a>--></li>
   <li>POLS 237: Introduction to International Politics</li>
   <li>POLS 336: Political Research Methods and Approaches II</li>
   <li>SOC 101: Introduction to Sociology</li>
@@ -49,7 +49,7 @@ nav: true
 <ul> 
    <li><a href="https://jylisadoney.github.io/intro-excel-1/" target="_blank">Introduction to Excel Part I: Tips, Tricks, and Strategies</a></li>  
   <li><a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">Introduction to Excel Part II: Advanced Functions, Charts, and Graphs</a></li>
-  <li><a href="https://jylisadoney.github.io/pols-235/" target="_blank">POLS 235 Library Session</a></li>
+  <!--<li><a href="https://jylisadoney.github.io/pols-235/" target="_blank">POLS 235 Library Session</a></li>-->
   <li><a href="https://jylisadoney.github.io/soc-341" target="_blank">SOC 341 Library Session (Spring 2018)</a></li>
   <li><a href="https://jylisadoney.github.io/soc" target="_blank">Sociology Library Workshops</a></li>
 </ul>
