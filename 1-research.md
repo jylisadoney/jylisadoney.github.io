@@ -18,7 +18,6 @@ nav: true
  </ul>
 
 <!--### Under review
-<li><b>Doney, J.</b> (under review). Library services for unaffiliated patrons at Association of Public and Land-grant Universities (APLU). <i>The Journal of Academic Librarianship, 45</i>(5), 102041. <a href="https://doi.org/10.1016/j.acalib.2019.05.009" target="_blank">https://doi.org/10.1016/j.acalib.2019.05.009</a>. Data available for download</li>
 <li><b>Doney, J.</b>, & Martinez, J. (under review). Leveraging failure to inform practice: How do students learn about library events and services? <i>Marketing Libraries Journal</i>.</li>-->
 
 ### Refereed
