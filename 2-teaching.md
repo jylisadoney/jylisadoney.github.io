@@ -17,7 +17,7 @@ nav: true
   <li>ISEM 101: Special Topics - Integrated Seminar</li>
   <li>NRS 310: Social Science Research Methods, co-taught</li>
   <li>POLS 207: Introduction to Political Behavior</li>
-  <li>POLS 235: Political Research Methods and Approaches<!-->; <a href="https://jylisadoney.github.io/pols-235/" target="_blank">GitHub page</a>--></li>
+  <li>POLS 235: Political Research Methods and Approaches<!--; <a href="https://jylisadoney.github.io/pols-235/" target="_blank">GitHub page</a>--></li>
   <li>POLS 237: Introduction to International Politics</li>
   <li>POLS 336: Political Research Methods and Approaches II</li>
   <li>SOC 101: Introduction to Sociology</li>
