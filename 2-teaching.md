@@ -32,7 +32,7 @@ nav: true
 
 ### Library workshops
 <ul>
-  <li>Graduate Student Essentials: Tips and Tricks for Word, Excel, and PowerPoint; <a href="{{ '/images/GSE_TipsTricks-Word-Handout_2019.pdf' | relative_url }}" target="_blank"> workshop handout</a></li>   
+  <li>Graduate Student Essentials: Tips and Tricks for Word, Excel, and PowerPoint; <a href="{{ '/images/GSE_TipsTricks-Word-Handout_2019.pdf' | relative_url }}" target="_blank">Workshop handout</a></li>   
   <li>Introduction to Creative Commons Licenses</li>
   <li>Introduction to Excel Part I: Tips, Tricks, and Strategies; <a href="https://jylisadoney.github.io/intro-excel-1/" target="_blank">GitHub page</a></li>
   <li>Introduction to Excel Part II: Advanced Functions, Charts, and Graphs; <a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">GitHub page</a></li>
@@ -43,7 +43,7 @@ nav: true
 
 #### Video tutorials
 <ul>
-  <li><a href="https://www.youtube.com/playlist?list=PL3MdArvT5LVceq5Toj2XLd7NQptPWIIy0" target="_blank">POLS 504 Library Tutorial series</a>; <a href="data/Resources-POLS504LibraryTutorials.pdf" target="_blank">resources cited and discussed</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PL3MdArvT5LVceq5Toj2XLd7NQptPWIIy0" target="_blank">POLS 504 Library Tutorial series</a>; <a href="{{ '/images/Resources-POLS504LibraryTutorials.pdf' | relative_url }}" target="_blank">Resources cited and discussed</a></li>
 </ul>
 
 #### GitHub pages
