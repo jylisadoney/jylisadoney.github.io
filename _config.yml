@@ -27,7 +27,7 @@ repo: "https://github.com/jylisadoney/jylisadoney.github.io"
 url: https://jylisadoney.github.io
 # add subsection of the domain,
 # on gh-pages this is the name of the repository
-baseurl: /jylisadoney.github.io
+baseurl: /
 
 # add google analytics if desired (optional)
 # if blank, it will be ignored
