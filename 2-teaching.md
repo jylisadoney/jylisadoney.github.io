@@ -52,7 +52,7 @@ nav: true
   <li><a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">Introduction to Excel Part II: Advanced Functions, Charts, and Graphs</a></li>
   <!--<li><a href="https://jylisadoney.github.io/pols-235/" target="_blank">POLS 235 Library Session</a></li>-->
   <li><a href="https://jylisadoney.github.io/soc-341" target="_blank">SOC 341 Library Session (Spring 2018)</a></li>
-  <li><a href="https://jylisadoney.github.io/soc" target="_blank">Sociology Library Workshops</a></li>
+  <li><a href="https://jylisadoney.github.io/soc" target="_blank">Sociology Library Sessions</a></li>
 </ul>
 
 #### Research guides (course-specific)
