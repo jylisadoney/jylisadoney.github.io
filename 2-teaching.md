@@ -7,22 +7,33 @@ nav: true
 
 ### Library sessions
 <ul>
+  <li>AND 102: Cultural Anthropology</li>
   <li>ANTH 220: Peoples of the World</li>
+  <li>ANTH/SOC 427: Racial and Ethnic Relations</li>
   <li>College of Graduate Studies (COGS), Library Session </li>
   <li>College of Graduate Studies (COGS) Thesis/Dissertation Writing Group, Library Session, co-taught</li>
+  <li>FCS 401: Professional Ethics and Practice in CFCS</li>
   <li>GSSP 501: Navigating the Graduate Pathway, co-taught</li>
   <li>GSSP 503: Introduction to Graduate Research, co-taught</li>
   <li>IS 204: Special Topics - International Studies Research Methods </li>
   <li>IS 310: The United Nations</li>
   <li>ISEM 101: Special Topics - Integrated Seminar</li>
+  <li>JAMM 350: Public Relations Writing and Production</li>
+  <li>JAMM 378: American Television Genres</li>
+  <li>JAMM 445: History of Mass Media</li>
+  <li>JAMM 466: Media Campaign Strategy</li>
   <li>NRS 310: Social Science Research Methods, co-taught</li>
+  <li>POLS 205: Introduction to Comparative Politics</li>
   <li>POLS 207: Introduction to Political Behavior</li>
   <li>POLS 235: Political Research Methods and Approaches<!--; <a href="https://jylisadoney.github.io/pols-235/" target="_blank">GitHub page</a>--></li>
   <li>POLS 237: Introduction to International Politics</li>
   <li>POLS 336: Political Research Methods and Approaches II</li>
+  <li>POLS 437: American Presidency</li>
+  <li>POLS 487: Political Violence and Revolution</li>
   <li>SOC 101: Introduction to Sociology</li>
   <li>SOC 301: Introduction to Diversity and Stratification</li>
   <li>SOC 309: Social Science Research Methods</li>
+  <li>SOC 331: Criminology Theory</li>
   <li>SOC 341: Science, Technology, and Society; <a href="https://jylisadoney.github.io/soc-341" target="_blank">GitHub page</a></li>
   <li>SOC 345: Extremism and American Society</li>
   <li>SOC 404: Special Topics - Climate Change & Society, co-taught</li>
@@ -36,6 +47,7 @@ nav: true
   <li>Introduction to Creative Commons Licenses</li>
   <li>Introduction to Excel Part I: Tips, Tricks, and Strategies; <a href="https://jylisadoney.github.io/intro-excel-1/" target="_blank">GitHub page</a></li>
   <li>Introduction to Excel Part II: Advanced Functions, Charts, and Graphs; <a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">GitHub page</a></li>
+  <li>Office 365 for Academics - It's More Than Just Your Email</li>
   <li>University of Idaho Open Access Publishing Fund, Open Forum</li>
 </ul>
 
