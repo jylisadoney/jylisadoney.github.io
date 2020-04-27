@@ -50,11 +50,11 @@ nav: true
 ### Library workshops
 <p>Co-developed and facilitated Graduate Student Essentials workshop series</p>
 
-<li><a href="https://youtu.be/YspUsSyLCOQ" target="_blank">Graduate Student Essentials: Tips and Tricks for Word, Excel, and PowerPoint; <a href="{{ '/images/GSE_TipsTricks-Word-Handout_2019.pdf' | relative_url }}" target="_blank">Workshop handout</a></li>
+<li>Graduate Student Essentials: Tips and Tricks for Word, Excel, and PowerPoint; <a href="https://www.lib.uidaho.edu/media/workshops/GSE_TipsTricks-Word-Handout_2019.pdf" target="_blank">Workshop handout</a></li>
 <li>Introduction to Creative Commons Licenses</li>
 <li>Introduction to Excel Part I: Tips, Tricks, and Strategies; <a href="https://jylisadoney.github.io/intro-excel-1/" target="_blank">GitHub page</a></li>
 <li>Introduction to Excel Part II: Advanced Functions, Charts, and Graphs; <a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">GitHub page</a></li>
-<li>Office 365 for Academics – It’s More Than Just Your Email!; <a href="https://www.lib.uidaho.edu/media/workshops/Office365forAcademics.pdf" target="_blank">Slides</a></li>
+<li>Office 365 for Academics – It’s More Than Just Your Email!; <a href="https://www.lib.uidaho.edu/media/workshops/Office365forAcademics.pdf" target="_blank">Workshop slides</a></li>
 <li>University of Idaho – Open Access Publishing Fund (OAPF): Open Forum</li>
 
 <!--<ul>
