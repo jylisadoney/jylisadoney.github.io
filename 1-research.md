@@ -22,7 +22,7 @@ nav: true
 <ul>
  <li><b>Doney, J.</b> (in press). Key ingredients in the journal article life cycle. In B. Buljung & E. Bongiovanni (Eds.), <i>Scholarly Communications Cookbook</i>. Chicago, IL: Association of College & Research Libraries. 
   <ul>
-   <li><a href="https://jylisadoney.github.io/media/JylisaDoney_ACRL-ScholarlyCommunicationsCookbook_KeyIngredients.pptx" target="_blank">Recipe PowerPoint slides</a></li>
+   <li>Recipe slides (<a href="https://jylisadoney.github.io/media/JylisaDoney_ACRL-ScholarlyCommunicationsCookbook_KeyIngredients.pptx">PowerPoint</a>, <a href="https://jylisadoney.github.io/media/JylisaDoney_ACRL-ScholarlyCommunicationsCookbook_KeyIngredients.pdf" target="_blank">PDF</a></li>
   </ul>
  </li>
  <li>Raezer-Stursa, T., Eggebraaten, L, <b>Doney, J.</b>, & Hallberg, J. (2018). <i>1957 Fargo tornado</i>. Charleston, SC: Arcadia Publishing. <a href="http://www.worldcat.org/oclc/1038277671" target="_blank">http://www.worldcat.org/oclc/1038277671</a></li>
