@@ -5,7 +5,13 @@ nav: true
 
 ## Teaching
 
-### Library sessions
+### Disciplinary library sessions
+<p>Anthropology (ANTH) 102, 220; Family and Consumer Sciences (FCS) 410; International Studies (IS) 204 and 310; Journalism and Mass Media (JAMM) 350, 378, 445, 466; Political Science (POLS) 205, 207, 235, 237, 336, 385, 437, and 487; and Sociology (SOC) 101, 301, 309, 331, <a href="https://jylisadoney.github.io/soc-341" target="_blank">341</a>, 345, 404, 427, and 460</p>
+
+### Interdisciplinary library sessions
+<p>College of Graduate Studies (COGS): Thesis & Dissertation Writing Group, Global Student Success Program (GSSP) 501 and 503, Integrated Seminar (ISEM) 101, and Natural Resources (NRS) 310</p>
+
+<!--
 <ul>
   <li>AND 102: Cultural Anthropology</li>
   <li>ANTH 220: Peoples of the World</li>
@@ -25,8 +31,8 @@ nav: true
   <li>NRS 310: Social Science Research Methods, co-taught</li>
   <li>POLS 205: Introduction to Comparative Politics</li>
   <li>POLS 207: Introduction to Political Behavior</li>
-  <li>POLS 235: Political Research Methods and Approaches<!--; <a href="https://jylisadoney.github.io/pols-235/" target="_blank">GitHub page</a>--></li>
-  <li>POLS 237: Introduction to International Politics</li>
+  <li>POLS 235: Political Research Methods and Approaches</li>
+  <!--<li>POLS 237: Introduction to International Politics</li>
   <li>POLS 336: Political Research Methods and Approaches II</li>
   <li>POLS 437: American Presidency</li>
   <li>POLS 487: Political Violence and Revolution</li>
@@ -39,17 +45,26 @@ nav: true
   <li>SOC 404: Special Topics - Climate Change & Society, co-taught</li>
   <li>SOC 427: Racial and Ethnic Relations</li>
   <li>SOC 460: Capstone - Sociology in Action</li>
-</ul>
+</ul> -->
 
 ### Library workshops
-<ul>
+<p>Co-developed and facilitated Graduate Student Essentials workshop series</p>
+
+<li><a href="https://youtu.be/YspUsSyLCOQ" target="_blank">Graduate Student Essentials: Tips and Tricks for Word, Excel, and PowerPoint; <a href="{{ '/images/GSE_TipsTricks-Word-Handout_2019.pdf' | relative_url }}" target="_blank">Workshop handout</a></li>
+<li>Introduction to Creative Commons Licenses</li>
+<li>Introduction to Excel Part I: Tips, Tricks, and Strategies; <a href="https://jylisadoney.github.io/intro-excel-1/" target="_blank">GitHub page</a></li>
+<li>Introduction to Excel Part II: Advanced Functions, Charts, and Graphs; <a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">GitHub page</a></li>
+<li>Office 365 for Academics – It’s More Than Just Your Email!; <a href="https://www.lib.uidaho.edu/media/workshops/Office365forAcademics.pdf" target="_blank">Slides</a></li>
+<li>University of Idaho – Open Access Publishing Fund (OAPF): Open Forum</li>
+
+<!--<ul>
   <li><a href="https://youtu.be/YspUsSyLCOQ" target="_blank">Graduate Student Essentials: Tips and Tricks for Word, Excel, and PowerPoint</a>; <a href="{{ '/images/GSE_TipsTricks-Word-Handout_2019.pdf' | relative_url }}" target="_blank">Workshop handout</a></li> 
   <li>Introduction to Creative Commons Licenses</li>
   <li>Introduction to Excel Part I: Tips, Tricks, and Strategies; <a href="https://jylisadoney.github.io/intro-excel-1/" target="_blank">GitHub page</a></li>
   <li>Introduction to Excel Part II: Advanced Functions, Charts, and Graphs; <a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">GitHub page</a></li>
   <li>Office 365 for Academics - It's More Than Just Your Email; <a href="https://www.lib.uidaho.edu/media/workshops/Office365forAcademics.pdf" target="_blank">Slides</a></li>
   <li>University of Idaho Open Access Publishing Fund, Open Forum</li>
-</ul>
+</ul>-->
 
 ### Materials developed 
 
