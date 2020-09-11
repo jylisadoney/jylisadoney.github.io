@@ -70,7 +70,7 @@ nav: true
 
 #### Video tutorials
 <ul>
-  <li><a href="https://www.youtube.com/playlist?list=PL3MdArvT5LVceq5Toj2XLd7NQptPWIIy0" target="_blank">POLS 504 Library Tutorial series</a>; <a href="{{ '/images/Resources-POLS504LibraryTutorials.pdf' | relative_url }}" target="_blank">Resources cited and discussed</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PL3MdArvT5LVceq5Toj2XLd7NQptPWIIy0" target="_blank">POLS 504 Library Tutorial series</a>; <a href="{{ '/files/Resources-POLS504LibraryTutorials.pdf' | relative_url }}" target="_blank">Resources cited and discussed</a></li>
 </ul>
 
 #### GitHub pages
@@ -84,7 +84,8 @@ nav: true
 
 #### Research guides (course-specific)
 <ul>
+  <li><a href="https://libguides.uidaho.edu/comm359" target="_blank">Communication (COMM) 359 [Sweet]</a></li>
   <li><a href="https://libguides.uidaho.edu/IntlStudiesPapers" target="_blank">International Studies Papers</a></li>
-  <li><a href="https://libguides.uidaho.edu/psyc218-online" target="_blank">Psychology 218 - Online [Pula]</a></li>
-  <li><a href="https://libguides.uidaho.edu/socbabcock" target="_blank">Sociology Online [Babcock]</a></li>
+  <li><a href="https://libguides.uidaho.edu/jamm466" target="_blank">Journalism and Mass Media (JAMM) 446 [Blevins</a></li>]
+  <li><a href="https://libguides.uidaho.edu/psyc218-online" target="_blank">Psychology (PSYC) 218 - Online [Pula]</a></li>
 </ul> 
