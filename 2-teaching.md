@@ -70,7 +70,7 @@ nav: true
 
 #### Video tutorials
 <ul>
-  <li><a href="https://www.youtube.com/playlist?list=PL3MdArvT5LVceq5Toj2XLd7NQptPWIIy0" target="_blank">POLS 504 Library Tutorial series</a>; <a href="{{ '/files/Resources-POLS504LibraryTutorials.pdf' | relative_url }}" target="_blank">Resources cited and discussed</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PL3MdArvT5LVceq5Toj2XLd7NQptPWIIy0" target="_blank">POLS 504 Library Tutorial series</a>; <a href="{{ '/media/Resources-POLS504LibraryTutorials.pdf' | relative_url }}" target="_blank">Resources cited and discussed</a></li>
 </ul>
 
 #### GitHub pages
