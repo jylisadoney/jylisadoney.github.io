@@ -9,6 +9,8 @@ nav: true
 
 ### Peer-reviewed
 <ul>
+<li>Attebury, R., <b>Doney, J.</b>, Perret, R. (2020). Finding our happy place: Assessing patron satisfaction after a comprehensive remodel. <i>Journal of Learning Spaces, 9</i>(2). <a href="http://libjournal.uncg.edu/jls/article/view/1929" target="_blank">http://libjournal.uncg.edu/jls/article/view/1929</a></li> 
+<li><b>Doney, J.</b>, Wikle, O., & Martinez, J. (2020). Likes, comments, views: A content analysis of academic library Instagram posts. <i>Information Technology and Libraries, 39</i>(3). <a href="https://doi.org/10.6017/ital.v39i3.12211" target="_blank">https://doi.org/10.6017/ital.v39i3.12211</a></li> 
 <li>Martinez, J., <b>Doney, J.</b>, & Stoddart, R. (2020). Illuminating the social aspect of open access textbook adoption. In D. Chase & D. Haugh (Eds.), <i>Open Praxis, Open Access: Digital Scholarship in Action</i> (pp. 171-193). American Library Association. <a href="http://www.worldcat.org/oclc/1098224350" target="_blank">http://www.worldcat.org/oclc/1098224350</a></li>
 <li><b>Doney, J.</b>, & Martinez, J. (2019). Leveraging failure to inform practice: How do students learn about library events and services? <i>Marketing Libraries Journal, 3</i>(2), 43-63. <a href="http://journal.marketinglibraries.org/MLJv3i2-43-63.html" target="_blank">http://journal.marketinglibraries.org/MLJv3i2-43-63.html</a></li> 
 <li>Anderson, T., <b>Doney, J.</b>, Hendrix, B., Martinez, J., Stoddart, R., & Wright, M. (2019). The five laws of OER: Observations from Ranganathan. <i>Journal of Librarianship and Scholarly Communication, 7</i>(1), eP2299. <a href="https://dx.doi.org/10.7710/2162-3309.2299" target="_blank">https://dx.doi.org/10.7710/2162-3309.2299</a></li>
@@ -37,6 +39,7 @@ nav: true
 
 ### Presentations
 <ul>
+<li><b>Doney, J.</b>, Martinez, J., & Stoddart, R. (2020, August). What can OER advocates learn from the traditional faculty textbook adoption experience? Virtual poster presentation at the Pacific Northwest Library Association Conference. <a href="https://pnla.org/pnla-vps-2020/what-can-oer-advocates-learn/" target="_blank">https://pnla.org/pnla-vps-2020/what-can-oer-advocates-learn/</a></li>  
 <li>Martinez, J, & <b>Doney, J.</b> (2020, July). Instructional iteration to better serve international students. Presentation at Library Instruction West Bi-Annual Conference, Seattle, WA. [accepted to present; conference cancelled due to COVID-19]</li>
 <li>Martinez, J., <b>Doney, J.</b>, & Wikle, O. (2019, August). Likes, comments, and views: A content analysis of academic library Instagram posts. Presentation at the Pacific Northwest Library Association 2019 Conference, Spokane, WA. Slides available at <a href="https://pnla.org/wp-content/uploads/2019/08/Martinez-Doney-Wikle_PNLA2019_LikesCommentsViews.pptx">https://pnla.org/wp-content/uploads/2019/08/Martinez-Doney-Wikle_PNLA2019_LikesCommentsViews.pptx</a>
  <li>Becker, D., & <b>Doney, J.</b> (2018, October). <i>Oral history as open data: Analyzing and publishing research interview artifacts and data using minimal computing techniques</i>. Presentation at the Digital Library Federation Forum, Las Vegas, NV.</li>
