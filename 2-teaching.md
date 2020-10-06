@@ -86,6 +86,6 @@ nav: true
 <ul>
   <li><a href="https://libguides.uidaho.edu/comm359" target="_blank">Communication (COMM) 359 [Sweet]</a></li>
   <li><a href="https://libguides.uidaho.edu/IntlStudiesPapers" target="_blank">International Studies Papers</a></li>
-  <li><a href="https://libguides.uidaho.edu/jamm466" target="_blank">Journalism and Mass Media (JAMM) 446 [Blevins</a></li>]
+  <li><a href="https://libguides.uidaho.edu/jamm466" target="_blank">Journalism and Mass Media (JAMM) 446 [Blevins]</a></li>
   <li><a href="https://libguides.uidaho.edu/psyc218-online" target="_blank">Psychology (PSYC) 218 - Online [Pula]</a></li>
 </ul> 
