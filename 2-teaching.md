@@ -6,7 +6,7 @@ nav: true
 ## Teaching
 
 ### Disciplinary library sessions
-<p>Anthropology (ANTH) 102, 220; Family and Consumer Sciences (FCS) 410; International Studies (IS) 204 and 310; Journalism and Mass Media (JAMM) 350, 378, 445, 466; Political Science (POLS) 205, 207, 235, 237, 336, 385, 437, and 487; and Sociology (SOC) 101, 301, 309, 331, <a href="https://jylisadoney.github.io/soc-341" target="_blank">341</a>, 345, 404, 427, and 460</p>
+<p>Anthropology (ANTH) 102, 220; Communication (COMM) 359; Family and Consumer Sciences (FCS) 410; International Studies (IS) 204 and 310; Journalism and Mass Media (JAMM) 350, 378, 445, 458, 466; Political Science (POLS) 205, 207, 235, 237, 336, 385, 437, and 487; and Sociology (SOC) 101, 301, 309, 331, <a href="https://jylisadoney.github.io/soc-341" target="_blank">341</a>, 345, 404, 427, and 460</p>
 
 ### Interdisciplinary library sessions
 <p>College of Graduate Studies (COGS): Thesis & Dissertation Writing Group, Global Student Success Program (GSSP) 501 and 503, Integrated Seminar (ISEM) 101, and Natural Resources (NRS) 310</p>
@@ -48,14 +48,16 @@ nav: true
 </ul> -->
 
 ### Library workshops
-<p>Co-developed and facilitated Graduate Student Essentials workshop series</p>
+<p>Co-developed and facilitated Graduate Student Essentials workshop series in <a href="https://www.youtube.com/playlist?list=PL3MdArvT5LVchT3tZAVCwHhCh3onN0PSf" target="_blank">2019</a> and <a href="https://www.youtube.com/playlist?list=PL3MdArvT5LVfhw9XxOkKUvB3f77oipDXx" target="_blank">2020</a></p>
 
-<li>Graduate Student Essentials: Tips and Tricks for Word, Excel, and PowerPoint; <a href="https://www.lib.uidaho.edu/media/workshops/GSE_TipsTricks-Word-Handout_2019.pdf" target="_blank">Workshop handout</a></li>
-<li>Introduction to Creative Commons Licenses</li>
-<li>Introduction to Excel Part I: Tips, Tricks, and Strategies; <a href="https://jylisadoney.github.io/intro-excel-1/" target="_blank">GitHub page</a></li>
-<li>Introduction to Excel Part II: Advanced Functions, Charts, and Graphs; <a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">GitHub page</a></li>
-<li>Office 365 for Academics – It’s More Than Just Your Email!; <a href="https://www.lib.uidaho.edu/media/workshops/Office365forAcademics.pdf" target="_blank">Workshop slides</a></li>
-<li>University of Idaho – Open Access Publishing Fund (OAPF): Open Forum</li>
+<li>Graduate Student Essentials: Tips and Tricks for Microsoft Word, Excel, and OneDrive (2020); <a href ="https://youtu.be/VndchZNS3iI" target="_blank">Workshop recording</a></li>
+<li>Graduate Student Essentials: Planning and Organizing a Literature Review (2020); <a href="https://youtu.be/KztxeVB7Fbg" target="_blank">Workshop recording</a></li>
+<li>Graduate Student Essentials: Tips and Tricks for Word, Excel, and PowerPoint (2019); <a href="https://youtu.be/YspUsSyLCOQ" target="_blank">Workshop recording</a></li>
+<li>Office 365 for Academics – It’s More Than Just Your Email! (2019); <a href="https://www.lib.uidaho.edu/media/workshops/Office365forAcademics.pdf" target="_blank">Workshop slides</a></li>
+<li>Introduction to Creative Commons Licenses (2018)</li>
+<li>Introduction to Excel Part I: Tips, Tricks, and Strategies (2018); <a href="https://jylisadoney.github.io/intro-excel-1/" target="_blank">GitHub page</a></li>
+<li>Introduction to Excel Part II: Advanced Functions, Charts, and Graphs (2018); <a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">GitHub page</a></li>
+<li>University of Idaho – Open Access Publishing Fund (OAPF): Open Forum (2018)</li><p></p>
 
 <!--<ul>
   <li><a href="https://youtu.be/YspUsSyLCOQ" target="_blank">Graduate Student Essentials: Tips and Tricks for Word, Excel, and PowerPoint</a>; <a href="{{ '/images/GSE_TipsTricks-Word-Handout_2019.pdf' | relative_url }}" target="_blank">Workshop handout</a></li> 
@@ -77,7 +79,6 @@ nav: true
 <ul> 
    <li><a href="https://jylisadoney.github.io/intro-excel-1/" target="_blank">Introduction to Excel Part I: Tips, Tricks, and Strategies</a></li>  
   <li><a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">Introduction to Excel Part II: Advanced Functions, Charts, and Graphs</a></li>
-  <!--<li><a href="https://jylisadoney.github.io/pols-235/" target="_blank">POLS 235 Library Session</a></li>-->
   <li><a href="https://jylisadoney.github.io/soc-341" target="_blank">SOC 341 Library Session (Spring 2018)</a></li>
   <li><a href="https://jylisadoney.github.io/soc" target="_blank">Sociology Library Sessions</a></li>
 </ul>
