@@ -73,6 +73,7 @@ nav: true
 #### Video tutorials
 <ul>
   <li><a href="https://www.youtube.com/playlist?list=PL3MdArvT5LVceq5Toj2XLd7NQptPWIIy0" target="_blank">POLS 504 Library Tutorial series</a>; <a href="{{ '/media/Resources-POLS504LibraryTutorials.pdf' | relative_url }}" target="_blank">Resources cited and discussed</a></li>
+  <li><a href="https://youtube.com/playlist?list=PL2VCfpBUgJGiVB290KMzu0zikjULmfSrS" target="_blank">CRIM 335 Library Research Series (Fall 2021)</a>; <a href=:{{ '/media/CRIM335_Video1-Slides_202109.pdf' | relative_url}} target="_blank">Video 1 Slides</a> and <a href=:{{ '/media/CRIM335_Video2-Slides_202109.pdf' | relative_url}} target="_blank">Video 2 Slides</a></li> 
 </ul>
 
 #### GitHub pages
