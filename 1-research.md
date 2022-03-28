@@ -7,7 +7,7 @@ nav: true
 
 ## Publications
 
-### Peer-reviewed
+### Peer-reviewed publications
 <ul>
 <li>Attebury, R., <b>Doney, J.</b>, Perret, R. (2020). Finding our happy place: Assessing patron satisfaction after a comprehensive remodel. <i>Journal of Learning Spaces, 9</i>(2). <a href="http://libjournal.uncg.edu/jls/article/view/1929" target="_blank">http://libjournal.uncg.edu/jls/article/view/1929</a></li> 
 <li><b>Doney, J.</b>, Wikle, O., & Martinez, J. (2020). Likes, comments, views: A content analysis of academic library Instagram posts. <i>Information Technology and Libraries, 39</i>(3). <a href="https://doi.org/10.6017/ital.v39i3.12211" target="_blank">https://doi.org/10.6017/ital.v39i3.12211</a></li> 
